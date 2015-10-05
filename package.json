@@ -1,0 +1,34 @@
+{
+  "name": "fly-web-app",
+  "version": "0.1.0",
+  "description": "web stater kit using fly.js",
+  "license": "MIT",
+  "homepage": "https://github.com/kashiro/fly-web-app",
+  "repository": "https://github.com/kashiro/fly-web-app",
+  "bugs": "https://github.com/kashiro/fly-web-app/issues",
+  "contributors": "https://github.com/kashiro/fly-web-app/graphs/contributors",
+  "scripts": {
+    "test": "fly"
+  },
+  "keywords": [
+    "fly"
+  ],
+  "author": {
+    "name": "Tomoyuki Kashiro",
+    "email": "ksrtmyk@gmail.com",
+    "url": "http://kashiro.github.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.9.8",
+    "fly": "^0.8.3",
+    "fly-eslint": "^0.4.0",
+    "fly-sass": "^0.3.0",
+    "fly-uglify": "^1.0.0",
+    "fly-useref": "^0.1.0"
+  },
+  "engines": {
+    "iojs": ">= 1.0.0",
+    "node": ">= 0.11.0"
+  }
+}
