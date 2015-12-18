@@ -8,6 +8,7 @@
   "bugs": "https://github.com/kashiro/fly-web-app/issues",
   "contributors": "https://github.com/kashiro/fly-web-app/graphs/contributors",
   "scripts": {
+    "serve": "fly serve",
     "test": "fly"
   },
   "keywords": [
@@ -20,9 +21,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.9.8",
-    "fly": "^0.8.3",
-    "fly-eslint": "^0.4.0",
+    "browser-sync": "^2.10.0",
+    "fly": "^0.8.4",
+    "fly-eslint": "^1.0.0",
     "fly-sass": "^0.3.0",
     "fly-uglify": "^1.0.0",
     "fly-useref": "^0.1.0"
